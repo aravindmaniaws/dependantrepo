@@ -1,1 +1,4 @@
-name:topic2
+name: topic2
+acl:
+  principal: user-x
+  allow: READ
